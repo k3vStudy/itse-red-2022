@@ -230,7 +230,10 @@
                     <mxGeometry x="-1430" y="-386" width="10" height="150.46" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;rotation=30;" vertex="1" parent="1">
-                    <mxGeometry x="-1391" y="-526" width="10" height="150.46" as="geometry"/>
+                    <mxGeometry x="-1371" y="-601" width="10" height="232.46" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;" vertex="1" parent="1">
+                    <mxGeometry x="-1369" y="-1010" width="10" height="381" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
